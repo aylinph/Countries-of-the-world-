@@ -69,4 +69,4 @@ Email: aylinspaceu2@gmail.com
 GitHub: @aylinph
 
 License
-Released under the MIT License. See LICENSE for details.ProgressSee task progress for longer tasks.Working foldersCODE PORTFOLIO - GITHUBInstructions · CLAUDE.mdLICENSEREADME.mdquiz-app-pythonContextUploadsprojectalgoptpcase2-mainmain (4).ipynbabout.html
+Released under the MIT License. See LICENSE for details.
